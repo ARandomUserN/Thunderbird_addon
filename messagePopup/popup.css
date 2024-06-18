@@ -1,0 +1,18 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.header {
+    font-weight: bold
+}
+
+.grid-container div {
+    margin: 1ex;
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+  }
